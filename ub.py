@@ -108,7 +108,7 @@ def result(OKs,cps):
         print(47*'-')
         input("Press enter to back YASHI Menu ")
         exit()
-def yashi():   
+def yashi():    
     os.system('clear')
     print(logo)
     print(f'[1] File Cloning')
